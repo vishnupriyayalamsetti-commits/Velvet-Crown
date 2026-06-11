@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Crown E-Commerce",
+  "description": "A premium online boutique for high-end fashion, handbags, jewelry, and luxury accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
